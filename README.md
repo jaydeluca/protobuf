@@ -110,6 +110,7 @@ how to install protobuf runtime for that specific language:
 |--------------------------------------|-------------------------------------------------------------|
 | C++ (include C++ runtime and protoc) | [src](src)                                                  |
 | Java                                 | [java](java)                                                |
+| Kotlin                               | [kotlin](java/kotlin)                                       |
 | Python                               | [python](python)                                            |
 | Objective-C                          | [objectivec](objectivec)                                    |
 | C#                                   | [csharp](csharp)                                            |
